@@ -1,5 +1,20 @@
 # 💫 About Me:
-# Hi, I'm Amna Kaleem 👋<br><br>🎓 IT Student at the University of Agriculture, Faisalabad (UAF'28).<br><br>💻 Front-End Developer & SEO Specialist passionate about building responsive web applications and improving digital experiences.<br><br>🤖 Currently exploring Generative AI, Agentic AI, and modern web technologies.<br><br>🚀 I enjoy working on real-world projects, participating in hackathons, and continuously learning new technologies.<br><br>🌱 Always learning, building, and growing — one project at a time!<br><br>📫 Let's connect and build something impactful!
+
+👋 Hi, I'm Amna Kaleem — IT Student, Front-End Developer & SEO Specialist passionate about Web Development, AI & Technology!
+
+🔭 I'm currently working on Web Applications, AI-powered projects, and exploring Generative AI & Agentic AI.
+
+👯 I'm looking to collaborate on Open-Source Projects, Web Development, RAG Applications & AI Solutions.
+
+🤝 I'm looking forward to gaining real-world experience and building impactful, problem-solving products.
+
+🌱 I'm currently learning JavaScript, React, Backend Development, RAG Systems, Generative AI & Agentic AI.
+
+💬 Ask me about HTML, CSS, JavaScript, React, C++, Python, SEO & Web Development.
+
+🚀 I enjoy participating in hackathons, exploring new technologies, and turning innovative ideas into real-world projects.
+
+⚡ Fun fact: I believe every project is an opportunity to learn something new and build something meaningful!
 
 
 ## 🌐 Socials:
