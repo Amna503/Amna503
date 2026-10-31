@@ -1,20 +1,22 @@
-# 💫 About Me:
+# 💫 About Me
 
-👋 Hi, I'm Amna Kaleem — IT Student, Front-End Developer & SEO Specialist passionate about Web Development, AI & Technology!
+👋 Hi, I'm **Amna Kaleem** — an IT Undergraduate, Front-End Developer, and SEO Specialist passionate about building impactful digital products and exploring emerging technologies.
 
-🔭 I'm currently working on Web Applications, AI-powered projects, and exploring Generative AI & Agentic AI.
+🔭 **Currently Working On:** Developing responsive web applications, AI-powered solutions, and practical projects that solve real-world problems.
 
-👯 I'm looking to collaborate on Open-Source Projects, Web Development, RAG Applications & AI Solutions.
+👯 **Open to Collaborate:** Open-source contributions, Full-Stack Web Development, Generative AI, RAG-based applications, and innovative AI projects.
 
-🤝 I'm looking forward to gaining real-world experience and building impactful, problem-solving products.
+🤝 **Looking Forward To:** Collaborating with developers, contributing to meaningful projects, and gaining hands-on experience in real-world software development.
 
-🌱 I'm currently learning JavaScript, React, Backend Development, RAG Systems, Generative AI & Agentic AI.
+🌱 **Currently Exploring:** Advanced JavaScript, React.js, Node.js, Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), and modern web technologies.
 
-💬 Ask me about HTML, CSS, JavaScript, React, C++, Python, SEO & Web Development.
+💬 **Ask Me About:** HTML, CSS, JavaScript, React.js, C++, Python, SEO, On-Page Optimization, and Web Development.
 
-🚀 I enjoy participating in hackathons, exploring new technologies, and turning innovative ideas into real-world projects.
+🚀 **Beyond Coding:** Hackathon enthusiast, technology explorer, and continuous learner passionate about transforming ideas into scalable and meaningful solutions.
 
-⚡ Fun fact: I believe every project is an opportunity to learn something new and build something meaningful!
+⚡ **My Philosophy:** Learn continuously, build fearlessly, solve real problems, and create technology that makes a difference.
+
+📫 **Let's Connect:** Always open to meaningful collaborations, innovative ideas, and opportunities to grow together!
 
 
 ## 🌐 Socials:
